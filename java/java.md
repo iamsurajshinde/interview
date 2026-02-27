@@ -1,4 +1,36 @@
 # Java & Spring Boot Interview Questions
+## Table of Contents
+
+### Java – Interview Questions & Answers
+1. [Difference between `==` and `equals()`](#1-what-is-the-difference-between--and-equals-in-java)
+2. [Why is `String` immutable?](#2-why-is-string-immutable-in-java)
+3. [ArrayList vs LinkedList](#3-difference-between-arraylist-and-linkedlist)
+4. [HashMap internals](#4-what-is-hashmap-and-how-does-it-work-internally)
+5. [Overriding `equals()` and `hashCode()`](#5-why-must-we-override-both-equals-and-hashcode)
+6. [`final`, `finally`, `finalize()`](#6-difference-between-final-finally-and-finalize)
+7. [Synchronization](#7-what-is-synchronization-in-java)
+8. [Comparable vs Comparator](#8-difference-between-comparable-and-comparator)
+9. [Optional](#9-what-is-optional-in-java)
+10. [Stream API](#10-what-is-stream-api)
+
+### Spring Boot – Interview Questions & Answers
+1. [What is Spring Boot?](#1-what-is-spring-boot)
+2. [Spring vs Spring Boot](#2-difference-between-spring-and-spring-boot)
+3. [Auto-Configuration](#3-what-is-auto-configuration)
+4. [`@SpringBootApplication`](#4-what-does-springbootapplication-contain)
+5. [`@Component`, `@Service`, `@Repository`](#5-difference-between-component-service-and-repository)
+6. [Dependency Injection](#6-what-is-dependency-injection)
+7. [`@Controller` vs `@RestController`](#7-difference-between-controller-and-restcontroller)
+8. [Spring Bean lifecycle](#8-what-is-spring-bean-lifecycle)
+9. [Global exception handling](#9-how-do-you-handle-exceptions-globally)
+10. [Spring Data JPA](#10-what-is-spring-data-jpa)
+11. [`findById()` vs `getById()`](#11-difference-between-findbyid-and-getbyid)
+12. [Actuator](#12-what-is-actuator)
+13. [Database connection](#13-how-does-spring-boot-connect-to-a-database)
+14. [`@RequestParam` vs `@PathVariable`](#14-difference-between-requestparam-and-pathvariable)
+15. [Default embedded server](#15-what-is-the-default-embedded-server-in-spring-boot)
+
+
 
 ## Java – Interview Questions & Answers
 
